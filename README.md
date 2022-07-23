@@ -1,6 +1,6 @@
 Hi, I’m @SpectreAscended
 I’m interested in ... Front end Web Development
-I’m currently learning ... JavaScript, Data structures and algorithms
+I’m currently learning ... React, Sass, Web Design
 I’m looking to collaborate on ... Any front end web development project you've got
 How to reach me ... AStandard87@gmail.com
 
